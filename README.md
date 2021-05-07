@@ -3,26 +3,26 @@
 ###  :computer: Tela
 
 <div align="center">
-  <img alt="Tela" title="#Tela" width="50%" height="auto" src="./README/tela.png" />
+  <img alt="Tela" title="#Tela" width="30%" height="auto" src="./README/tela.png" />
 </div>
 
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - Java;
 - XML;
 - Android Studio.
 
 ----------
 
-###  :gear: Função
-- [x] Jogo empregado pela máquina com um método de seleção randômico.
+###  :gear: FunÃ§Ã£o
+- [x] Jogo empregado pela mÃ¡quina com um mÃ©todo de seleÃ§Ã£o randÃ´mico.
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
