@@ -1,6 +1,6 @@
 ## Pedra, Papel ou Tesoura - Mobile
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="30%" height="auto" src="./README/tela.png" />
